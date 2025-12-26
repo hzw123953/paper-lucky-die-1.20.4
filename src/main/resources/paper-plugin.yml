@@ -1,0 +1,4 @@
+name: lucky die
+version: '1.0'
+main: com.hwn.luckyDie.LuckyDie
+api-version: '1.20'
